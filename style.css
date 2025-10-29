@@ -1,0 +1,110 @@
+#banniere {
+	background-image: url("image/FOND VOITURE.png");
+	height: 100px;
+	width: 880px;
+	padding: 180px;
+	margin: 5px;
+	background-attachment: fixed;
+}
+
+
+
+h1
+{
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  font-size: 110px;
+
+background: linear-gradient(to left, rgb(255,0,0), rgb(121,121,244));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+
+
+h2
+{
+	font-family: "Neonderthaw", cursive;
+  	font-weight: 100;
+  	font-style: normal;
+	color: #42081D;
+	font-size: 50px;
+}
+
+
+
+h3 
+{
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: green;
+  font-size: 50px;
+  text-decoration-line: underline; 
+}
+
+
+.sous-titre:hover 
+{
+	color: #FFD700;
+}
+
+
+
+.sous-titre
+{
+	text-align: center;
+}
+
+
+
+.voiture img{
+	width: 300px;
+}
+
+
+
+#Rolls-royce{
+	width: 400px;	
+	height: 300px;
+}
+
+
+
+#Rimac-nevera{
+	width: 440px;	
+	height: 300px;
+}
+
+
+
+#Lucid-air{
+	width: 400px;	
+	height: 300px;
+}
+
+
+.images{
+	height:600px;
+	width: 1250px;
+}
+
+
+.text {
+	font-size: 20px;
+}
+
+
+
+<!--à modifier-->
+
+body
+{
+	background color: linear-gradient(to left, rgb(255,0,0), rgb(121,121,244));
+background-clip: body;
+-webkit-background-clip: body;
+-webkit-text-fill-color: transparent;
+}
