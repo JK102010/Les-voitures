@@ -1,5 +1,5 @@
 #banniere {
-	background-image: url("image/FOND VOITURE.png");
+	background-image: url("FOND VOITURE.png");
 	height: 100px;
 	width: 880px;
 	padding: 180px;
@@ -107,4 +107,5 @@ body
 background-clip: body;
 -webkit-background-clip: body;
 -webkit-text-fill-color: transparent;
+
 }
