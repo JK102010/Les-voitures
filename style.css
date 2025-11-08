@@ -4,7 +4,8 @@
 	width: 880px;
 	padding: 180px;
 	margin: 5px;
-	background-attachment: fixed;
+	background-attachment: fixed
+	text-align: center;
 }
 
 
@@ -109,3 +110,4 @@ background-clip: body;
 -webkit-text-fill-color: transparent;
 
 }
+
